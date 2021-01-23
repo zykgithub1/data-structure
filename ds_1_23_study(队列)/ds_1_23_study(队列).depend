@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611390509 source:f:\vsproject\数据结构\ds_1_23_study(队列)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+	<process.h>
+	<limits.h>
+	<string.h>
+
