@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611844432 source:f:\vsproject\数据结构\ds_1_28study(huffmantree)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
