@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612150093 source:f:\vsproject\数据结构\ds_2_1study\main.c
+	<stdio.h>
+	<stdlib.h>
+
