@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612342744 source:f:\vsproject\数据结构\ds_2_3_study\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
